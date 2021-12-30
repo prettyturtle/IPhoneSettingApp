@@ -11,7 +11,7 @@
 1. 셀
     - 설정 앱의 첫번째 섹션을 보면
     - 크고 사진도 있다
-        ![](/IPhoneSettingApp/IPhoneSettingApp/imgs/img1.PNG)
+        ![](/IPhoneSettingApp/imgs/img1.PNG)
     - 하지만 이 부분을 커스텀으로 만들어야할지
     - 아니면 기본 셀로도 만들수 있는 건지 잘 모르겠다
 1. 셀 속성
