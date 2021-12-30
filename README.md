@@ -22,5 +22,5 @@
 
 
 ### 이미지
-![](/IPhoneSettingApp/IPhoneSettingApp/imgs/img2.png)
-![](/IPhoneSettingApp/IPhoneSettingApp/imgs/img3.png)
+![](/IPhoneSettingApp/imgs/img2.png)
+![](/IPhoneSettingApp/imgs/img3.png)
