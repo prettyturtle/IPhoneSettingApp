@@ -25,6 +25,10 @@
 		6B994353277E287A009E0092 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6B994355277E287A009E0092 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6B99435B277E28F8009E0092 /* SettingPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingPresenter.swift; sourceTree = "<group>"; };
+		6B994361277E3B0D009E0092 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6B994362277E3C49009E0092 /* img1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img1.PNG; sourceTree = "<group>"; };
+		6B994363277E3E55009E0092 /* img3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img3.png; sourceTree = "<group>"; };
+		6B994364277E3E5F009E0092 /* img2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +46,7 @@
 		6B99433B277E2878009E0092 = {
 			isa = PBXGroup;
 			children = (
+				6B994361277E3B0D009E0092 /* README.md */,
 				6B994346277E2878009E0092 /* IPhoneSettingApp */,
 				6B994345277E2878009E0092 /* Products */,
 			);
@@ -58,6 +63,7 @@
 		6B994346277E2878009E0092 /* IPhoneSettingApp */ = {
 			isa = PBXGroup;
 			children = (
+				6B994365277E3EC1009E0092 /* imgs */,
 				6B994347277E2878009E0092 /* AppDelegate.swift */,
 				6B994349277E2878009E0092 /* SceneDelegate.swift */,
 				6B99435D277E28FD009E0092 /* Setting */,
@@ -75,6 +81,16 @@
 				6B99435B277E28F8009E0092 /* SettingPresenter.swift */,
 			);
 			path = Setting;
+			sourceTree = "<group>";
+		};
+		6B994365277E3EC1009E0092 /* imgs */ = {
+			isa = PBXGroup;
+			children = (
+				6B994362277E3C49009E0092 /* img1.PNG */,
+				6B994364277E3E5F009E0092 /* img2.png */,
+				6B994363277E3E55009E0092 /* img3.png */,
+			);
+			path = imgs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
